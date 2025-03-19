@@ -1,11 +1,29 @@
-# PyGame-Objektide-animeerimine
-PyGame – Objektide animeerimine 
+**Eneseanalüüs**
 
+**4.1. Kuidas sul läks?**
 
-Alguses valisin ülesandest kolm põhielementi, mis tundusid kõige olulisemad ja millest sai arendust alustada. Kuna need olid selged ja lihtsad ülesanded, ei olnud mul esialgu suuri takistusi nende täitmisel. Kõik tundus sujuv ning projekt arenes mõnevõrra kiiresti, kuna mul oli selge suund ja arusaam, kuidas edasi liikuda.
+Projekti üldine kulg oli sujuv ja arusaadav, eriti algfaasis, kus sain kiiresti paika panna põhielemendid. Esialgne arendus kulges ilma suuremate probleemideta ning olin rahul oma edusammudega. Kuid mida edasi, seda keerulisemaks asi muutus, eriti kujundite animeerimise ja liikumise juhtimise osas.
 
-Siiski, mida edasi, seda keerulisemaks asi läks. Kõige suurem väljakutse tekkis kujundite liikumise juures. Kuna ülesande täitmine nõudis dünaamilisi muudatusi ja liikumist, hakkasin silmitsi seisma erinevate tehniliste probleemidega, nagu liikumisefektide sujuvus, kiirus ja täpsus. Oli oluline, et kujundid liiguksid õigesti ning et liikumine oleks loomulik ja intuitiivne kasutajale, mis ei ole alati lihtne saavutada.
+Liikumisefektide sujuvus, kiirus ja täpsus nõudsid palju täiendavat töötlemist ja testimist, et tagada visuaalselt meeldiv ja kasutajasõbralik tulemus. Seetõttu tuli korduvalt oma koodi parandada ja optimeerida, mis oli ajamahukas, kuid õpetlik.
 
-Kujundite liikumist tuli täpselt kohandada, et vältida kokkupõrkeid ja tagada igal hetkel õige järjekord ja liikumisvõimalus. Kõige rohkem andis mulle väljakutse liikumise juhtimine erinevates suundades, samuti liikumiskiirus, et see oleks tasakaalus ja visuaalselt meeldiv. Siinkohal tuli mul arvestada ka erinevate piirangutega, nagu ekraani suurus, võimalikud kasutaja sisendid ja vajadus tagada, et kõik toimiks ka erinevates seadmetes.
+**4.2. Kas avastasid uusi Python'i tehnikaid või lähenemisi?**
 
-Kuna kuvasin disaini erinevates kontekstides, pidin pidevalt katsetama ja täiendama koodimist, et tagada võimalikult sujuv ja veatu liikumisvõimekus. Lõppkokkuvõttes sain aru, et kõik detailid, alates liikumiskiirusest kuni erinevate kiirusrežiimide ja liikumisvõimalusteni, olid olulised, et saavutada soovitud tulemusi.
+Jah, arenduse käigus sain parema arusaama PyGame teekist ja selle erinevatest võimalustest, eriti seoses objektide liikumise ja animatsiooniga.
+
+Samuti avastasin uusi viise, kuidas efektiivsemalt hallata kasutaja sisendit ning optimeerida koodi, et mäng jookseks sujuvamalt. Sain parema arusaama ka PyGame ajahaldusest, mis aitas liikumist paremini sünkroniseerida.
+
+**4.3. Enesehinnang**
+
+Hindan oma tööd hindega **4**.
+
+- **Positiivne:** Ülesanne on korrektselt täidetud ja vastab ootustele. Olen suutnud edukalt rakendada uusi teadmisi ning lahendada tekkinud probleemid.
+- **Parandamist vajav:** Koodis on veel optimeerimisruumi ning testimisele võiks rohkem tähelepanu pöörata, eriti automaatsete testide osas.
+
+**4.4. Mida teeksid järgmisel korral teisiti?**
+
+- **Tõhusam testimine:** Keskenduks rohkem automaatsetele testidele, et vähendada manuaalse testimise koormust ja parandada koodi kvaliteeti.
+- **Optimeerimine:** Järgmine kord analüüsiksin rohkem võimalusi koodi optimeerimiseks, et parendada mängu sujuvust ja vähendada ressursikasutust.
+- **Planeerimine:** Pööraks rohkem tähelepanu algfaasis võimalikele probleemidele, et vähendada hilisemaid töötlusvajadusi ja muuta arendusprotsess süstemaatilisemaks.
+
+Kokkuvõttes oli projekt väga kasulik kogemus, mis aitas mul arendada oma oskusi PyGame ja Python'i programmeerimises. Kuigi tuli ette väljakutseid, sain neist edukalt üle ning tulemus oli rahuldav.
+
