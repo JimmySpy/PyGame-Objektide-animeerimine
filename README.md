@@ -1,7 +1,6 @@
 1. **Praktilise töö sooritamise käik:**
    - **Eesmärk:** Eesmärk oli arendada lihtne Pygame-põhine mäng, kus oleks liikumisefekte ja animeeritud kujundid.
    - **Lühikirjeldus:** Kasutasin Pygame teeki mängu arendamiseks, millel on liikumisefektid ja animatsioonid. Projekti käigus tuli silmitsi seista liikumise sujuvuse tagamise ning objekti animatsiooni täpsusega.
-   - **GitHub link:** [GitHub link](https://github.com/your-repository-link)
    - **Töötasin üksi või meeskonnas?** Töötasin üksi. 
    - **Kas oled abi saanud kaasõppijalt või abi andnud kaasõppijale (kelele ja mis ulatuses?)** Ei saanud abi kaasõppijatelt.
 
